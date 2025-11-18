@@ -1,4 +1,4 @@
-# CSB2025 — Computational Systems Biology (2025 edition)
+# CSB2025 - Computational Systems Biology (2025 edition)
 
 This repository is the landing page for the Computational Systems Biology (CSB 2025) course of the Universitat de València. It aggregates the hands-on materials for the three course sessions as git submodules so this repo serves as a single point of entry for students and instructors for the 2025 edition.
 
