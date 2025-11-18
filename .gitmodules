@@ -1,0 +1,9 @@
+[submodule "session8"]
+	path = session8
+	url = https://github.com/ArnauMontagud/CSB2025_session8
+[submodule "session9"]
+	path = session9
+	url = https://github.com/ArnauMontagud/CSB2025_session9
+[submodule "session10"]
+	path = session10
+	url = https://github.com/ArnauMontagud/CSB2025_session10
