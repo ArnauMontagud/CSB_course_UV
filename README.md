@@ -1,6 +1,6 @@
-# CSB - Computational Systems Biology course at Universitat de València (2025 edition)
+# CSB - Computational Systems Biology course at Universitat de València
 
-This repository is the landing page for the Computational Systems Biology (CSB 2025) course of the Universitat de València. It aggregates the hands-on materials for the three course sessions as git submodules so this repo serves as a single point of entry for students and instructors for the 2025 edition.
+This repository is the landing page for the Computational Systems Biology (CSB) course of the Universitat de València. It aggregates the hands-on materials for the three course sessions as git submodules so this repo serves as a single point of entry for students and instructors.
 
 Each session is maintained in its own subdirectory and kept as a submodule to preserve history and allow independent development. The three sessions included here are:
 
@@ -23,7 +23,7 @@ The recommended way to clone this repo and automatically initialize the session 
 
 ```pwsh
 # Clone repository and init submodules in one step
-git clone --recurse-submodules https://github.com/ArnauMontagud/CSB2025
+git clone --recurse-submodules https://github.com/ArnauMontagud/CSB_course_UV
 
 # Or, if you already cloned without submodules:
 git submodule update --init --recursive
