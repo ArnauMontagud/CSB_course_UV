@@ -1,4 +1,4 @@
-# CSB2025 - Computational Systems Biology (2025 edition)
+# CSB - Computational Systems Biology course at Universitat de València (2025 edition)
 
 This repository is the landing page for the Computational Systems Biology (CSB 2025) course of the Universitat de València. It aggregates the hands-on materials for the three course sessions as git submodules so this repo serves as a single point of entry for students and instructors for the 2025 edition.
 
@@ -97,12 +97,10 @@ Check each `sessionN/README.md` for exact dependency versions and example comman
 - `session10/`:
 	- Authors include Miguel Ponce de León and Arnau Montagud (see `session10/README.md`).
 
-If you want, I can update the above entries with specific maintainer GitHub handles or institutional emails where available — tell me which details to add and I will patch the file.
-
 **License**
 
 Materials are owned by each of the authors, the repositories are released under the BSD 3-Clause License. See the `LICENSE` file for details.
 
 **Contact / Support**
 
-If you find issues or need help, open an issue in this repository or contact the course instructor. For session-specific questions, also check the README and contact details inside the corresponding `sessionN/` submodule.
+If you find issues or need help, open an issue in this repository or contact the course instructor.
