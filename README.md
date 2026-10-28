@@ -9,7 +9,7 @@ to install.
 | Session | Topic | Launch |
 |---|---|---|
 | **S8** | **Signalling**: Boolean modelling of signalling networks (GINsim, bioLQM, MaBoSS) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB_signalling/HEAD?urlpath=lab/tree/practical_signalling.ipynb) |
-| **S9** | **Personalisation**: cell-line specific models from omics data (PROFILE) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB_personalisation/HEAD) |
+| **S9** | **Personalisation**: cell-line specific models from omics data (PROFILE) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB_personalisation/HEAD?urlpath=lab/tree/practical_personalisation.ipynb) |
 | **S10** | **Metabolism**: constraint-based modelling and flux balance analysis (COBRApy) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB_metabolic/HEAD?urlpath=lab/tree/practical_metabolic.ipynb) |
 
 ## Two rules for every session
