@@ -8,9 +8,9 @@ to install.
 
 | Session | Topic | Launch |
 |---|---|---|
-| S8 and S9 | Boolean modelling of signalling networks (GINsim, bioLQM, MaBoSS) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB_signalling/HEAD?urlpath=lab/tree/practical_signalling.ipynb) |
-| S9 | Patient and cell-line specific models (PROFILE) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB_personalisation/HEAD) |
-| S10 | Constraint-based metabolic modelling and FBA (COBRApy) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB_metabolic/HEAD?urlpath=lab/tree/practical_metabolic.ipynb) |
+| **S8** | **Signalling**: Boolean modelling of signalling networks (GINsim, bioLQM, MaBoSS) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB_signalling/HEAD?urlpath=lab/tree/practical_signalling.ipynb) |
+| **S9** | **Personalisation**: cell-line specific models from omics data (PROFILE) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB_personalisation/HEAD) |
+| **S10** | **Metabolism**: constraint-based modelling and flux balance analysis (COBRApy) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB_metabolic/HEAD?urlpath=lab/tree/practical_metabolic.ipynb) |
 
 ## Two rules for every session
 
@@ -34,6 +34,6 @@ https://mybinder.org/v2/gh/ArnauMontagud/CSB_signalling/2025-26
 
 ## Repositories
 
-- [CSB_signalling](https://github.com/ArnauMontagud/CSB_signalling)
-- [CSB_personalisation](https://github.com/ArnauMontagud/CSB_personalisation)
-- [CSB_metabolic](https://github.com/ArnauMontagud/CSB_metabolic)
+- **S8, signalling**: [CSB_signalling](https://github.com/ArnauMontagud/CSB_signalling)
+- **S9, personalisation**: [CSB_personalisation](https://github.com/ArnauMontagud/CSB_personalisation)
+- **S10, metabolism**: [CSB_metabolic](https://github.com/ArnauMontagud/CSB_metabolic)
